@@ -51,4 +51,4 @@ do
         cloudvm-ram-size -C 0 ${SERVICE}
 done
 
-echo "Please shutdown the VCSA and modify its memory configuration to 3GB or as approrpiate ...""
+echo "Please shutdown the VCSA and modify its memory configuration to 3GB or as approrpiate ..."
